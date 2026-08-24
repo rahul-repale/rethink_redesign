@@ -1,5 +1,5 @@
-import { describe, it, expect, beforeEach } from 'vitest'
-import { screen, act } from '@testing-library/react'
+import { describe, it, expect } from 'vitest'
+import { screen } from '@testing-library/react'
 import userEvent from '@testing-library/user-event'
 import { renderWithProviders, mockUser } from '../test/test-utils'
 import Home from '../pages/Home'
