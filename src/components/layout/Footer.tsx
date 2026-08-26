@@ -21,7 +21,7 @@ export default function Footer() {
         {/* Links */}
         <div className="flex items-center gap-6">
           <a
-            href="https://linkedin.com/company/rethink"
+            href="https://www.linkedin.com/company/re-ecoverse/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-label-md font-label-md text-on-secondary-container transition-colors duration-200 hover:text-primary"
@@ -29,7 +29,7 @@ export default function Footer() {
             LinkedIn
           </a>
           <a
-            href="https://instagram.com/rethink"
+            href="https://instagram.com/rethink_sustainability/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-label-md font-label-md text-on-secondary-container transition-colors duration-200 hover:text-primary"
